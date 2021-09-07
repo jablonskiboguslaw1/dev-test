@@ -1,5 +1,5 @@
 # DEV-TEST
-
+# IT LOOKS DEFINITELY BETTER WITH INTELLIJ THAN GITHUB
 The dev-test is all about basic skills of programming, where basic does not mean __easy part__, but the __core__ of programming. Having your answer will allow us to better understand where you are as a programmer, and what journey is in front of us.
 
 For the following three tasks, please provide a working java code. For the ease of use, you may write a plain java (8+) console application (that we can run in the terminal) that reads the input from standard I/O. In any case - the final solution is up to you, providing at least small ``README.md`` for each of application is mandatory.
@@ -14,6 +14,8 @@ Finally:
 ## Task list
 
 ### Task1
+[TASK 1 README ](Task1/Task1Readme.md)
+
 The input is a long list of integers. Please write a small app that will output the list of distinct elements sorted in ascending order, plus the basic measurement information that contains the number of elements in the source, number of distinct elements, min and max value.
 
 Sample:
@@ -36,6 +38,8 @@ max: 20
 
 
 ### Task2
+[TASK 2 README ](Task2/Task2Readme.md)
+
 Again, the input is a long list of integers. Provide a working code that will find all the pairs (in this integer list) that sum up to 13. Each pair in the output should have first number not greater than the second one and lines should be sorted in an ascending order.
 
 Sample:
@@ -57,6 +61,8 @@ expected output is:
 ```
 
 ### Task3
+[TASK 3 README ](Task3/Task3Readme.md)
+
 The first line of input contains a positive number `n`, next `n` lines contains pairs of positive integers, where each pair identifies a connection between two vertices in a graph. Please provide a working code that will give us the answer for the following questions: how many separated graphs are in the input.
 
 Sample: 
