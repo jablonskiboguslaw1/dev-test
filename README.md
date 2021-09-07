@@ -1,5 +1,4 @@
 # DEV-TEST
-# IT LOOKS DEFINITELY BETTER WITH INTELLIJ THAN GITHUB
 The dev-test is all about basic skills of programming, where basic does not mean __easy part__, but the __core__ of programming. Having your answer will allow us to better understand where you are as a programmer, and what journey is in front of us.
 
 For the following three tasks, please provide a working java code. For the ease of use, you may write a plain java (8+) console application (that we can run in the terminal) that reads the input from standard I/O. In any case - the final solution is up to you, providing at least small ``README.md`` for each of application is mandatory.
