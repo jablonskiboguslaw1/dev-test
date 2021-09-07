@@ -1,4 +1,4 @@
-###TASK 3
+### TASK 3
 #### It is the third and the most demanding app made for dev-test. Three methods for handling input, separating non-joint graphs and joining them respectively till all possible non-joint graphs remains.
 #### Like other apps waiting for input from standard I/O this one is also launched from IDE(main method) or from command prompt (javac Task3.java , java Task3). Java 9+ is required
 #### Like mentioned in task description first input line must be positive number n, and n pairs positive integers. Stay focused. No validation nor exception handling or tests. Please give some feedback if you want some tests, or if you find some bugs. It was not mentioned.
